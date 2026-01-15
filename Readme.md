@@ -1,4 +1,4 @@
-# 🏬 Global Superstore Data Warehouse (Snowflake) + Power BI Dashboards
+# 🏬 Retail Analytics: Snowflake Data Warehouse + Power BI Dashboards
 
 ## 📌 Project Overview
 This project builds an **end-to-end analytics solution** for a global retail business by designing a **Snowflake data warehouse** and connecting it to **Power BI dashboards** for scalable and trusted reporting.
